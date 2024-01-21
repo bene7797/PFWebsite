@@ -18,15 +18,15 @@ p {
   margin: 0;
 }
 :root {
-  --primary: #ee3491;
+  --primary: #003b57;
   --heading-color: #282938;
 
-  --github: #e628c6;
-  --darkblue: #1c1e53;
+  --github: #011b35;
+  --darkblue: #003b57;
   --black: #000000;
   --white: #f4f2f3;
-  --bg-comp: #eafffb;
-  --bg-shade: #7bddd0;
+  --bg-comp: #ffffff;
+  --bg-shade: #9dc3d7;
 }
 .btn {
   font-family: "Roboto";
