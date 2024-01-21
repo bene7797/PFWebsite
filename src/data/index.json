@@ -1,0 +1,104 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Obektorientierte Programmierung",
+      "description": "Ich habe solide Kenntnisse in objektorientierter Programmierung, besonders in Java und C#. Mein Ziel ist es, klaren und gut strukturierten Code zu schreiben, der leicht zu pflegen ist. Diese Fähigkeiten habe ich durch praktische Erfahrung in verschiedenen Projekten kontinuierlich verbessert.                                              "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Unity3D Engine",
+      "description": "Ich habe umfassende Praxiserfahrung mit Unity3D, hauptsächlich in der Spieleentwicklung. Meine Stärken liegen in der Animation und im UI-Design sowie in der Performance-Optimierung. Mit Unity setze ich kreative Ideen effektiv in ansprechende Projekte um.                                                                                    "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Webentwicklung",
+      "description": "Als Anfänger in der Webentwicklung konzentriere ich mich derzeit auf das Erlernen von React. Ich bin motiviert und engagiert, meine Kenntnisse in modernen Webtechnologien zu erweitern. Mein Ziel ist es, responsive und benutzerfreundliche Websites zu erstellen, während ich weiterhin praktische Erfahrungen in der Webprogrammierung sammle."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Musikproduktion",
+      "description": "Ich bin leidenschaftlich in der Musikproduktion tätig, beherrsche viele Instrumente und bin in verschiedenen Genres zuhause. Meine Erfahrung erstreckt sich vom Komponieren bis zum Abmischen. Ich liebe es, kreative Klanglandschaften zu schaffen und vielseitige musikalische Projekte zu realisieren.                                          "
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Versionsverwaltung",
+      "description": "Durch die Zusammenarbeit in verschiedenen Projekten habe ich wichtige Kenntnisse in der Versionsverwaltung erlangt. Ich bin vertraut mit Tools wie Git, die es ermöglichen, effizient im Team zu arbeiten und den Überblick über Änderungen zu behalten. Diese Erfahrung hilft mir, meine Arbeit gut zu organisieren und nahtlos mit anderen zu kooperieren."
+    },
+    {
+      "id": "6",
+      "src": "./img/feather-pen-1.png",
+      "title": "Raspberry Pie",
+      "description": "Durch die Zusammenarbeit in verschiedenen Projekten habe ich Kenntnisse in der Versionsverwaltung mit Tools wie Git erworben. Diese Erfahrung ermöglicht es mir, effizient im Team zu arbeiten und den Überblick über Änderungen zu behalten, um meine Arbeit gut zu organisieren und nahtlos mit anderen zusammenzuarbeiten."
+    },
+    {
+      "id": "7",
+      "src": "./img/feather-pen-1.png",
+      "title": "Grafikdesign",
+      "description": "Ich habe grundlegende Kenntnisse in Bildmanipulation erworben, vor allem im Zusammenhang mit Unity und anderen Projekten. Obwohl ich noch am Anfang meiner Reise im Grafikdesign stehe, habe ich bereits erste Erfahrungen gesammelt und freue mich darauf, meine Fähigkeiten weiterzuentwickeln.                                               "
+    },
+    {
+      "id": "8",
+      "src": "./img/feather-pen-1.png",
+      "title": "Künstliche Intelligenz",
+      "description": "Ich verfüge über Grundkenntnisse in verschiedenen KI-Modellen und habe Erfahrungen gesammelt, insbesondere in der Musikerkennung. Mein Wissen in diesem Bereich steckt noch in den Anfängen, aber ich bin motiviert, meine Kenntnisse und Fähigkeiten weiter auszubauen."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/WanderballLevel.webp",
+      "title": "Wanderball",
+      "description": "Ein Reaktions- und Puzzleplatformer für Smartphones. Das Projekt wurde mit Unity3D gemacht und ist im Playstore erhältlich",
+      "link": "View In Github",
+      "url": "https://play.google.com/store/apps/details?id=com.BabisComp.WanderBall&hl=de"
+    },
+    {
+      "id": "2",
+      "src": "./img/Uwe-Game.png",
+      "title": "Uwe und die 50 Hasen",
+      "description": "Ein Simples 2D Sidescrolling Adventuregame. Gemacht innerhalb von 2 Wochen für den 50ten Geburtstag eines Bekannten",
+      "link": "View In Github",
+      "url": "https://bene7797.itch.io/uwe-und-die-50-hasen"
+    },
+    {
+      "id": "3",
+      "src": "./img/platzhalter3.webp",
+      "title": "Musikanimation",
+      "description": "Diese Seite extrahiert die Audiospur eines Youtubevideos und animiert mit React-Three.Fiber die Frequenzdaten auf eine interressante Art und Weise",
+      "link": "View In Github",
+      "url": "https://github.com/yourusername/wanderball"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
