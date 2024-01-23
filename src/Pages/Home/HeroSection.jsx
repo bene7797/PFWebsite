@@ -16,7 +16,6 @@ export default function HeroSection() {
             <br /> Details zu meinen Projekten
           </p>
         </div>
-        <button className="btn btn-primary">Kontakt</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
