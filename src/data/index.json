@@ -47,7 +47,7 @@
       "src": "./img/WanderballLevel.webp",
       "title": "Wanderball",
       "description": "Ein Reaktions- und Puzzleplatformer für Smartphones. Das Projekt wurde mit Unity3D gemacht und ist im Playstore erhältlich",
-      "link": "View In Github",
+      "link": "View In Playstore",
       "url": "https://play.google.com/store/apps/details?id=com.BabisComp.WanderBall&hl=de"
     },
     {
@@ -60,11 +60,11 @@
     },
     {
       "id": "3",
-      "src": "./img/platzhalter3.webp",
+      "src": "./img/Vis.png",
       "title": "Musikanimation",
-      "description": "Diese Seite habe ich zum Erlenen von React entwickelt. Sie extrahiert die Audiospur eines Youtubevideos und animiert mit React-Three.Fiber die Frequenzdaten auf eine interressante Art und Weise",
+      "description": "Diese Seite extrahiert die Frequenzdaten einer Mp3 und animiert diese mit React-Three.Fiber die auf eine interressante Art und Weise",
       "link": "View Website",
-      "url": "https://github.com/yourusername/wanderball"
+      "url": "https://phenomenal-puppy-abb339.netlify.app/"
     }
   ]
 }
