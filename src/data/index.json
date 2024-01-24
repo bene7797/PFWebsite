@@ -54,7 +54,7 @@
       "id": "2",
       "src": "./img/Uwe-Game.png",
       "title": "Uwe und die 50 Hasen",
-      "description": "Ein Simples 2D Sidescrolling Adventuregame. Entwickelt innerhalb von 2 Wochen für den 50ten Geburtstag des Auftraggebers",
+      "description": "Ein Simples 2D Sidescrolling Adventuregame. Entwickelt innerhalb von 2 Wochen für den 50ten Geburtstag eines Bekannten",
       "link": "View on Itch.io",
       "url": "https://bene7797.itch.io/uwe-und-die-50-hasen"
     },
@@ -62,7 +62,7 @@
       "id": "3",
       "src": "./img/Vis.png",
       "title": "Musikanimation",
-      "description": "Diese Seite extrahiert die Frequenzdaten einer Mp3 und animiert diese mit React-Three.Fiber die auf eine interressante Art und Weise",
+      "description": "Diese Seite extrahiert die Frequenzdaten einer Mp3 (Im moment ein eigener Song) und animiert diese mit React-Three-Fiber auf eine interressante Art und Weise",
       "link": "View Website",
       "url": "https://phenomenal-puppy-abb339.netlify.app/"
     }
